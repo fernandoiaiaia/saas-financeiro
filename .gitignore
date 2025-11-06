@@ -143,3 +143,4 @@ vite.config.ts.timestamp-*
 .env.local
 *.db
 *.db-journal
+.DS_Store
